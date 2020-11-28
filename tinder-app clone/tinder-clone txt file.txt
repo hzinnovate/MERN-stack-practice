@@ -1,0 +1,7 @@
+for backend"
+
+MongoDB
+Express
+Mongoose
+
+change tinder-clone axiom url if you run server on localhost
